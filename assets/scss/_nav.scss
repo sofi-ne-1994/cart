@@ -1,0 +1,14 @@
+.botonera{
+    background-color:$mainColor;
+
+    img{
+        width: 150px;
+    }
+    a{
+        color: $white;
+    }
+    svg{
+        width: 30px;
+        fill: $white;
+    }
+}

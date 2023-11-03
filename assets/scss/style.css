@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,400;1,500&family=Roboto:ital,wght@0,400;1,300&display=swap");
+/* fondos */
+.bg-pink {
+  background-color: deeppink;
+  color: rgb(240, 236, 236);
+}
+
+h1, h2, h3 {
+  color: deeppink;
+  font-weight: 100;
+}
+
+.botonera {
+  background-color: deeppink;
+}
+.botonera img {
+  width: 150px;
+}
+.botonera a {
+  color: rgb(240, 236, 236);
+}
+.botonera svg {
+  width: 30px;
+  fill: rgb(240, 236, 236);
+}
+
+.filtros button {
+  border: none;
+  background-color: deeppink;
+  border-radius: 8px;
+  padding: 4px 8px;
+}
+.filtros button svg {
+  width: 30px;
+  fill: rgb(240, 236, 236);
+}
+.filtros input {
+  border-radius: 8px;
+}
+
+/*# sourceMappingURL=style.css.map */

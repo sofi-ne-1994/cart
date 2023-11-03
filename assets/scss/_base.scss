@@ -1,0 +1,24 @@
+//vars
+$mainColor:  deeppink;
+$secondaryColor: rgb(84,83,83);
+$white: rgb(240, 236, 236);
+$black: rgb(10,10,10);
+
+
+// font
+$mainFont:'Montserrat', sans-serif;
+
+
+
+/* fondos */
+.bg-pink{
+    background-color:$mainColor;
+    color:$white;
+}
+
+
+
+h1,h2,h3{
+    color: $mainColor;
+    font-weight: 100;
+}
