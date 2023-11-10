@@ -16,3 +16,40 @@
     border-radius: 8px;
    }
 }
+
+//inicia items de carrito
+.cart-items{
+    img{
+        width: 100%;
+        border-radius: 8px;
+    }
+    h4{
+        font-size: 1em;
+        color: $black;
+
+    }
+    .price{
+        color:$mainColor;
+        font-weight: 500;
+    }
+    button{
+        border: none;
+        background-color: transparent;
+        svg{
+            width: 30px;
+            fill: $mainColor;
+
+        }
+    }
+    .cant{
+        color: gray;
+        margin-top: -15px;
+        
+    }
+
+}
+.total-price{
+    font-size: 1.2em;
+    color: $black;
+    font-weight: 600;
+}

@@ -11,4 +11,18 @@
         width: 30px;
         fill: $white;
     }
+    .num-cart{
+        width:15px;
+        height:15px;
+        background-color:$black;
+        border-radius: 50%;
+        color: $white;
+        display: block;
+        border: solid $black 1px;
+        transform: translate(11px, -30px);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 0.5em;
+    }
 }
